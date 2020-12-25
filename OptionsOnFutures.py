@@ -5,7 +5,7 @@ import time
 
 account = 27574
 user = 'ALGO_RINALDI'
-passw = 'Rinaldi6+'
+passw = 'XXXXX'
 prop = 'ISV_PBCP'
 
 #result = req.post('https://api.primary.com.ar/auth/getToken', headers={"X-Username":user,"X-Password":passw})
